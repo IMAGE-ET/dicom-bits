@@ -1,6 +1,7 @@
-# repl
+# dicom-bits
 
-This is Kevin's REPL for doing small jobs
+This is a clone of https://github.com/karchie/repl.git which I stumbled on when looking for Clojure code for handling DICOM. 
+I don't plan on making changes to this - the author was using the repo as a store for 'small jobs'.
 
 ## License
 
